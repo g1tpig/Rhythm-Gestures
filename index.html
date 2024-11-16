@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>p5MediaPipe Hand Gesture Recognition</title>
+  <!-- include cdn libraries-->
+   
+
+</head>
+
+
+
+
+<body>
+  <h1>Gesture Recognition</h1>
+  <button id="button_webcam" disabled onclick="startWebcam();">
+      Model Loading...
+  </button>
+  <div id="canvas"></div>
+
+  <!-- include js libraries -->
+  <script src="./libraries/hands.js" crossorigin="anonymous"></script>
+  <script src="./libraries/p5.min.js"></script>
+  <script src="./libraries/p5.sound.min.js"></script>
+  <script src="./libraries/matter.js"></script>
+  <script src="./libraries/matter.min.js"></script>
+  <script src="./box.js"></script>
+  <script src="./sketch.js"></script>
+  <script src="./particle.js"></script>
+  <script src="./particle_system.js"></script>
+  <!-- Import module correctly -->
+  <script type="module" src="./script.js"></script>
+
+</body>
+
+</html>
