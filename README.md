@@ -14,4 +14,4 @@ The complete project, including all data packages, can be accessed here:
 ## Note
 This repository contains the demo version of the project. **Due to GitHub's file size limitations, some data packages are not included in this repository.**
 **Please ensure you download the complete package from the provided Google Drive link for full functionality.**
-<img width="936" alt="截屏2024-11-15 01 51 06" src="https://github.com/user-attachments/assets/190d7635-69dd-46e9-bb1a-ea2c3b62ac95">
+<img width="575" alt="截屏2024-11-16 10 20 53" src="https://github.com/user-attachments/assets/32e14bba-96e9-4c47-b7d7-d1078de11e6f">
