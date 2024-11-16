@@ -1,7 +1,7 @@
 # Project Demo
 
 ## Overview
-This repository contains the demo version of the project. Due to GitHub's file size limitations, some data packages are not included in this repository.
+Rhythm-Gestures is an AR rhythm game that combines gesture recognition technology with musical gameplay. Players can interact with the game through natural hand movements, creating an immersive and intuitive gaming experience. By merging motion sensing capabilities with rhythmic challenges, the game offers a unique blend of physical interaction and musical entertainment.
 
 ## Demo Access
 The complete project, including all data packages, can be accessed here:
@@ -12,4 +12,6 @@ The complete project, including all data packages, can be accessed here:
 2. Follow the compilation instructions in the downloaded package
 
 ## Note
-Please ensure you download the complete package from the provided Google Drive link for full functionality.
+This repository contains the demo version of the project. **Due to GitHub's file size limitations, some data packages are not included in this repository.**
+**Please ensure you download the complete package from the provided Google Drive link for full functionality.**
+<img width="936" alt="截屏2024-11-15 01 51 06" src="https://github.com/user-attachments/assets/190d7635-69dd-46e9-bb1a-ea2c3b62ac95">
